@@ -1,0 +1,8 @@
+%syntax-version=1.0.0
+%project=oblog
+%uri=http://oblog.io/
+
+schema 2020-07-17T07:47:25Z Alexis Delahaye <alexis.delahaye7@gmail.com> # Categorie & Post schemas
+types 2021-12-23T10:07:25Z Alexis Delahaye <alexis.delahaye7@gmail.com> # Ajout de vérifications de colonnes
+view 2023-07-24T07:54:23Z Alexis Delahaye <alexis.delahaye7@gmail.com> # Ajout d'une vue de récupération de post avec category
+functions 2023-07-26T11:09:42Z Alexis Delahaye <alexis.delahaye7@gmail.com> # ajout de function CRUD
